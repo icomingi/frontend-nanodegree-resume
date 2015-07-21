@@ -1,0 +1,14 @@
+Q: How to compare static and dynamic method of contructing HTML?
+	Static method can help me test things out in a browser, verify the HTML structures.
+	Dynamic method can abstract the content from the structure making editing easy and scalable. Even I think about "..." can be implemented using this method rather than static method.
+
+Q: What's the obvious difference between Python and Javascript?
+	Syntax
+	Javascript has to end a statement with ";" while Python doesn't have this.
+
+Q: What's the equivalent of Python's "print" in Javascript?
+	console.log("var a: %s" % a);
+
+Q: What tools to use when developing websites with Javascript?
+	Text editor
+	Browser with developer tools
